@@ -1,6 +1,6 @@
 # Welcome to My Repository
 
-This repository contains Jupyter Notebook files with code related to [provide a brief description of the purpose of your code].
+This repository contains Jupyter Notebook files with code related to financial analysis with OpenAI Assitants API.
 
 ## Key Points
 
